@@ -1,0 +1,17 @@
+{
+  "name": "towebfont",
+  "version": "1.0.0",
+  "description": "Convert to web font",
+  "main": "index.js",
+  "bin": {
+    "towebfont": "bin/towebfont"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fiuza",
+  "license": "ISC",
+  "dependencies": {
+    "fontfacegen": "^0.2.1"
+  }
+}
